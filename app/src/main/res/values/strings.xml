@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Peercoin Wallet</string>
+    <string name="create_new_wallet">Create New Wallet</string>
+    <string name="recover_old_wallet">Recover old wallet</string>
+    <string name="set_pin">Set PIN</string>
+    <string name="description_app_logo">App logo</string>
+    <string name="description_peercoin_text">Peercoin text</string>
+    <string name="description_arrow_back">Arrow back</string>
 </resources>
