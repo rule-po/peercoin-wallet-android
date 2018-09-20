@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">Peercoin Wallet</string>
+    <string name="create_new_wallet">Create New Wallet</string>
+    <string name="recover_old_wallet">Recover old wallet</string>
+    <string name="set_pin">Set PIN</string>
+    <string name="description_app_logo">App logo</string>
+    <string name="description_peercoin_text">Peercoin text</string>
+    <string name="description_arrow_back">Arrow back</string>
+    <string name="pin_message_1">Your PIN will be used to unlock your Peercoin Wallet and to send money.</string>
+    <string name="pin_message_2">Remember this PIN. If you forget it, you won\'t be able to access your peercoins.</string>
+    <string name="pin_message_3">Repeat PIN to confirm it!</string>
+    <string name="caution">Caution!</string>
+    <string name="pin_success_set">PIN is set!</string>
 </resources>
